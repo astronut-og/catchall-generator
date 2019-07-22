@@ -33,7 +33,7 @@
             background-size: 112%;
         }
 
-        #inputs {
+        .inputs {
             font-size: 1.2rem;
             line-height: 1.2rem;
             color: #1a1a1a;
@@ -52,7 +52,7 @@
             border-bottom: 2px solid black;
         }
 
-        #but {
+        .button {
             background-color: #1A1A1A;
             transition: background-color 10s ease;
             
